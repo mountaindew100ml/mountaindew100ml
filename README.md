@@ -14,7 +14,7 @@
 - 🌱 Currently learning: **MERN Stack + AWS**
 - 🛠️ Building: Cool web apps with **MongoDB | Express | React | Node**
 - 💬 Ask me about: **JS, React, Git, Python**
-- 📧 Reach me: `00lionel11@gmail.com`
+- 📧 Reach me: `hehhehe@gmail.com`
 - 🎯 2025 Goal: Land a job & contribute to open source
 
 ---
